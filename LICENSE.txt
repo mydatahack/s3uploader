@@ -1,0 +1,2 @@
+Demo package to show how to create setup.py.
+Run python setup.py install for installation
